@@ -2,7 +2,6 @@
 
 #pragma once
 
-#include "ZoneShapeComponent.h"
 #include "Kismet/BlueprintFunctionLibrary.h"
 #include "BismuthConsultancyBPLibrary.generated.h"
 
