@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "BismuthConsultancy",
+	"Description": "Exposing some C++ only code to Python and Blueprint",
+	"Category": "Other",
+	"CreatedBy": "Bismuth Consultancy BV",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "BismuthConsultancy",
+			"Type": "Editor",
+			"LoadingPhase": "PreDefault"
+		}
+	]
+}
