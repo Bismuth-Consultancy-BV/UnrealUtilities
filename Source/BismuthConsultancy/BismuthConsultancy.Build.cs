@@ -38,7 +38,8 @@ public class BismuthConsultancy : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
-				"WorldPartition"
+				"WorldPartition",
+				"Landscape"
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);
